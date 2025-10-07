@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hola 👋, soy Hugo
 
-<!--
-**HugoCaceres22/HugoCaceres22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Bienvenido a mi perfil de GitHub!  
 
-Here are some ideas to get you started:
+Soy **Hugo**, estudiante en el **IES Zaidín-Vergeles**, y estoy aprendiendo a programar y mejorar mis habilidades día a día.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Sobre mí
+- Actualmente estoy **aprendiendo Python y PHP**.
+- Tengo conocimientos en **HTML y CSS**.
+- Me encanta explorar nuevas tecnologías y mejorar mis proyectos personales.
+- Siempre estoy buscando aprender y compartir lo que sé con la comunidad.
+
+
+## Contacto
+- Puedes encontrarme aquí en GitHub para ver mis proyectos y colaboraciones.  
+- Me encanta aprender y compartir, así que cualquier consejo o colaboración será bienvenida 😊.
+
+---
+
+¡Gracias por visitar mi perfil!
