@@ -10,6 +10,8 @@ Soy **Hugo**, estudiante en el **IES Zaidín-Vergeles**, y estoy aprendiendo a p
 - Me encanta explorar nuevas tecnologías y mejorar mis proyectos personales.
 - Siempre estoy buscando aprender y compartir lo que sé con la comunidad.
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HugoCaceres22&layout=compact&theme=tokyonight)
+
 
 ## Contacto
 - Puedes encontrarme aquí en GitHub para ver mis proyectos y colaboraciones.  
