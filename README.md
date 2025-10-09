@@ -12,7 +12,7 @@ Soy **Hugo**, estudiante en el **IES Zaidín-Vergeles**, y estoy aprendiendo a p
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HugoCaceres22&layout=compact&theme=tokyonight)
 
-![Snake animation](https://github.com/HugoCaceres22/HugoCaceres22/blob/output/github-contribution-grid-snake.svg)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 
 ## Contacto
