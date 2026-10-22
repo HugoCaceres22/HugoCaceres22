@@ -1,27 +1,86 @@
-# Hola 👋, soy Hugo
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg">
+  <img src="assets/header-light.svg" width="100%" alt="Hugo Cáceres. Sistemas, automatización e inteligencia artificial. Un recorrido de conexiones animadas entre infraestructura, automatización y datos.">
+</picture>
 
-¡Bienvenido a mi perfil de GitHub!  
+<p align="center">
+  <a href="https://hugocaceres22.github.io/"><b>Portfolio ↗</b></a>
+  &nbsp; · &nbsp;
+  <a href="#proyectos-para-conocerme"><b>Proyectos</b></a>
+  &nbsp; · &nbsp;
+  <a href="mailto:hugocaceresmartin@gmail.com"><b>Contacto</b></a>
+</p>
 
-Soy **Hugo**, estudiante en el **IES Zaidín-Vergeles**, y estoy aprendiendo a programar y mejorar mis habilidades día a día.
+# Hola, soy Hugo 👋
 
-## Sobre mí
-- Actualmente estoy **aprendiendo Python y PHP**.
-- Tengo conocimientos en **HTML y CSS**.
-- Me encanta explorar nuevas tecnologías y mejorar mis proyectos personales.
-- Siempre estoy buscando aprender y compartir lo que sé con la comunidad.
+Soy **Técnico Superior en Administración de Sistemas Informáticos en Red (ASIR)** y actualmente estoy cursando un **máster de Inteligencia Artificial y Big Data** en el **IES Zaidín-Vergeles**.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HugoCaceres22&layout=compact&theme=tokyonight)
+Me gusta entender cómo se conectan las piezas: desde un servidor y su red hasta el script que ahorra una tarea repetitiva. En mis repositorios comparto laboratorios, prácticas y documentación de lo que voy construyendo y aprendiendo.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+- **Sistemas y redes:** entornos Linux y Windows, Active Directory, DNS y DHCP.
+- **Automatización:** Ansible y PowerShell para administrar equipos y repetir configuraciones.
+- **Monitorización:** conocimientos de **Zabbix** para seguir el estado de sistemas y servicios.
+- **Ahora, IA y datos:** Python, cuadernos Jupyter y prácticas de extracción, transformación y carga de datos.
 
+> Entender lo que pasa. Automatizar lo que se repite. Documentar lo aprendido.
 
-## Contacto
-- Puedes encontrarme aquí en GitHub para ver mis proyectos y colaboraciones.  
-- Me encanta aprender y compartir, así que cualquier consejo o colaboración será bienvenida 😊.
+## Herramientas que conecto
 
----
+| Área | Tecnologías y conocimientos |
+| :--- | :--- |
+| **Infraestructura** | Linux · Windows Server · Active Directory · GPO · Vagrant |
+| **Automatización y seguridad** | Ansible · PowerShell · BitLocker · Kerberos · WinRM sobre HTTPS |
+| **Redes y monitorización** | Zabbix · DNS / BIND9 · DHCP · Apache |
+| **Programación y web** | Python · PHP · HTML · CSS · Git / GitHub |
+| **Datos e IA · en formación** | Jupyter · Pandas · DuckDB · Dask · scikit-learn |
 
-¡Gracias por visitar mi perfil!
+## Proyectos para conocerme
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>01 · Un punto de control</h3>
+      <p>Administración de equipos Windows desde Ubuntu con Ansible, Kerberos y WinRM sobre HTTPS.</p>
+      <p><sub>SISTEMAS / AUTOMATIZACIÓN</sub></p>
+      <a href="https://github.com/HugoCaceres22/Windows-Managed-with-Ansible"><b>Windows Managed with Ansible ↗</b></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>02 · Cifrar y poder recuperar</h3>
+      <p>Respaldo de claves de recuperación de BitLocker en Active Directory mediante GPO y PowerShell.</p>
+      <p><sub>SEGURIDAD / WINDOWS</sub></p>
+      <a href="https://github.com/HugoCaceres22/bitlocker-ad-recovery-automation"><b>BitLocker + Active Directory ↗</b></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>03 · Una red que se actualiza</h3>
+      <p>Laboratorio de DHCP y DNS dinámico con BIND9, actualizaciones autenticadas y comprobaciones con dig.</p>
+      <p><sub>REDES / LINUX</sub></p>
+      <a href="https://github.com/HugoCaceres22/Dynamic-DNS"><b>Dynamic DNS ↗</b></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>04 · De los datos a la práctica</h3>
+      <p>Cuadernos Python y ejercicios de extracción, transformación y carga de datos desde fuentes múltiples.</p>
+      <p><sub>DATOS / APRENDIZAJE</sub></p>
+      <a href="https://github.com/HugoCaceres22/ETCDFM"><b>ETCDFM ↗</b></a>
+    </td>
+  </tr>
+</table>
+
+<details>
+  <summary><b>Una idea diferente del laboratorio: acortar enlaces con DNS</b></summary>
+
+En [AcortadorURLs](https://github.com/HugoCaceres22/AcortadorURLs) exploro cómo guardar destinos en **registros DNS TXT** y consultarlos desde PHP, con la API de IONOS para crear los registros. Una práctica que cruza redes, programación y automatización.
+
+</details>
+
+## En lo que estoy ahora
+
+Estoy ampliando mi base de sistemas con **inteligencia artificial y tratamiento de datos**. Mi siguiente paso es conectar ese aprendizaje con la automatización y la monitorización de infraestructuras.
+
+Si te interesan los sistemas, Zabbix o aprender construyendo, podemos compartir ideas.
+
+**[Visita mi portfolio](https://hugocaceres22.github.io/) · [Escríbeme](mailto:hugocaceresmartin@gmail.com)**
+
+<p align="center"><sub>Montar → probar → observar → documentar → mejorar</sub></p>
