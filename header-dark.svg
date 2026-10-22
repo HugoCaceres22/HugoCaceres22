@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="360" viewBox="0 0 960 360" role="img" aria-labelledby="title desc">
+  <title id="title">Hugo Cáceres — sistemas, automatización e inteligencia artificial</title>
+  <desc id="desc">Conexiones entre infraestructura, automatización y datos. Ilustración conceptual con señales que recorren los enlaces durante 4,8 segundos. Se muestra sin movimiento cuando el visitante lo prefiere.</desc>
+  <style>
+    text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif; }
+    .mono { font-family: ui-monospace, 'Cascadia Code', Consolas, monospace; }
+    .signal { fill: none; stroke: #ffab76; stroke-width: 4; stroke-linecap: round; stroke-dasharray: 3 97; opacity: 0; animation: travel 4.8s linear 1 forwards; }
+    @keyframes travel {
+      0% { stroke-dashoffset: 100; opacity: 0; }
+      8% { opacity: 1; }
+      90% { opacity: 1; }
+      100% { stroke-dashoffset: 0; opacity: 0; }
+    }
+    @media (prefers-reduced-motion: reduce) { .signal { animation: none; opacity: 0; } }
+  </style>
+  <defs>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="0.75" fill="#344958"/>
+    </pattern>
+  </defs>
+  <rect x="0.5" y="0.5" width="959" height="359" rx="18" fill="#101e2a" stroke="#344958"/>
+  <path d="M42 28H86" stroke="#ffab76" stroke-width="4"/>
+  <text x="42" y="61" font-size="12" letter-spacing="2.3" font-weight="600" fill="#b5c4cc">SISTEMAS / AUTOMATIZACIÓN / IA</text>
+  <text x="38" y="133" font-size="64" letter-spacing="-2.5" font-weight="750" fill="#f4f0e8">Hugo Cáceres<tspan fill="#ffab76">.</tspan></text>
+  <text x="42" y="169" font-size="19" fill="#b5c4cc">Curiosidad por dentro. Proyectos por fuera.</text>
+
+  <g aria-hidden="true">
+    <rect x="662" y="24" width="254" height="162" fill="url(#grid)"/>
+    <circle cx="790" cy="108" r="66" fill="none" stroke="#344958" stroke-dasharray="2 7"/>
+    <path d="M690 132L744 78L790 108L839 56M744 78L822 155L874 116L790 108L822 155M690 132H742L790 108" stroke="#344958" fill="none" stroke-width="1.5"/>
+    <path d="M744 78L790 108L874 116" stroke="#7cd8ca" fill="none" stroke-width="2"/>
+    <circle cx="690" cy="132" r="5" fill="#101e2a" stroke="#7cd8ca" stroke-width="2"/>
+    <circle cx="744" cy="78" r="7" fill="#101e2a" stroke="#7cd8ca" stroke-width="2"/>
+    <circle cx="790" cy="108" r="11" fill="#ffab76"/>
+    <circle cx="839" cy="56" r="5" fill="#101e2a" stroke="#344958" stroke-width="2"/>
+    <circle cx="822" cy="155" r="6" fill="#101e2a" stroke="#7cd8ca" stroke-width="2"/>
+    <circle cx="874" cy="116" r="5" fill="#101e2a" stroke="#7cd8ca" stroke-width="2"/>
+    <circle cx="742" cy="132" r="3" fill="#b5c4cc"/>
+  </g>
+
+  <g stroke="#344958" fill="none" stroke-width="1.5"><path d="M82 254H191Q207 254 215 240L230 214Q238 200 254 200H280Q296 200 304 214L319 240Q327 254 343 254H386"/><path d="M422 254H531Q547 254 555 240L570 214Q578 200 594 200H620Q636 200 644 214L659 240Q667 254 683 254H726"/></g>
+  <g aria-hidden="true"><path class="signal" d="M82 254H191Q207 254 215 240L230 214Q238 200 254 200H280Q296 200 304 214L319 240Q327 254 343 254H386" pathLength="100"/><path class="signal" d="M422 254H531Q547 254 555 240L570 214Q578 200 594 200H620Q636 200 644 214L659 240Q667 254 683 254H726" pathLength="100"/></g>
+  <g fill="#182e3c" stroke="#7cd8ca" stroke-width="1.5">
+    <circle cx="64" cy="254" r="18"/>
+    <circle cx="404" cy="254" r="18"/>
+    <circle cx="744" cy="254" r="18"/>
+  </g>
+  <g class="mono" font-size="12" font-weight="600" fill="#7cd8ca" text-anchor="middle">
+    <text x="64" y="258">01</text><text x="404" y="258">02</text><text x="744" y="258">03</text>
+  </g>
+  <g font-size="20" font-weight="650" fill="#f4f0e8">
+    <text x="42" y="304">Infraestructura</text>
+    <text x="382" y="304">Automatización</text>
+    <text x="722" y="304">IA + datos</text>
+  </g>
+  <g font-size="13" fill="#b5c4cc">
+    <text x="42" y="329">Linux · Windows · Zabbix</text>
+    <text x="382" y="329">Ansible · PowerShell</text>
+    <text x="722" y="329">Máster en curso</text>
+  </g>
+</svg>

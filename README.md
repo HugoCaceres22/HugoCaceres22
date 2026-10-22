@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg">
-  <img src="assets/header-light.svg" width="100%" alt="Hugo Cáceres. Sistemas, automatización e inteligencia artificial. Un recorrido de conexiones animadas entre infraestructura, automatización y datos.">
+  <source media="(prefers-color-scheme: dark)" srcset="header-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="header-light.svg">
+  <img src="header-light.svg" width="100%" alt="Hugo Cáceres. Sistemas, automatización e inteligencia artificial. Un recorrido de conexiones animadas entre infraestructura, automatización y datos.">
 </picture>
 
 <p align="center">
